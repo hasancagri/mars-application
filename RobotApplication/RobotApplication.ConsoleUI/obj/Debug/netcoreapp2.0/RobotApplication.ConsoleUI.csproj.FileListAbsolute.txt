@@ -1,0 +1,16 @@
+C:\Users\Çağrı\Desktop\RobotApplication\RobotApplication.ConsoleUI\bin\Debug\netcoreapp2.0\RobotApplication.ConsoleUI.deps.json
+C:\Users\Çağrı\Desktop\RobotApplication\RobotApplication.ConsoleUI\bin\Debug\netcoreapp2.0\RobotApplication.ConsoleUI.runtimeconfig.json
+C:\Users\Çağrı\Desktop\RobotApplication\RobotApplication.ConsoleUI\bin\Debug\netcoreapp2.0\RobotApplication.ConsoleUI.runtimeconfig.dev.json
+C:\Users\Çağrı\Desktop\RobotApplication\RobotApplication.ConsoleUI\bin\Debug\netcoreapp2.0\RobotApplication.ConsoleUI.dll
+C:\Users\Çağrı\Desktop\RobotApplication\RobotApplication.ConsoleUI\bin\Debug\netcoreapp2.0\RobotApplication.ConsoleUI.pdb
+C:\Users\Çağrı\Desktop\RobotApplication\RobotApplication.ConsoleUI\bin\Debug\netcoreapp2.0\RobotApplication.BLL.dll
+C:\Users\Çağrı\Desktop\RobotApplication\RobotApplication.ConsoleUI\bin\Debug\netcoreapp2.0\RobotApplication.Entities.dll
+C:\Users\Çağrı\Desktop\RobotApplication\RobotApplication.ConsoleUI\bin\Debug\netcoreapp2.0\RobotApplication.BLL.pdb
+C:\Users\Çağrı\Desktop\RobotApplication\RobotApplication.ConsoleUI\bin\Debug\netcoreapp2.0\RobotApplication.Entities.pdb
+C:\Users\Çağrı\Desktop\RobotApplication\RobotApplication.ConsoleUI\obj\Debug\netcoreapp2.0\RobotApplication.ConsoleUI.csprojResolveAssemblyReference.cache
+C:\Users\Çağrı\Desktop\RobotApplication\RobotApplication.ConsoleUI\obj\Debug\netcoreapp2.0\RobotApplication.ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\Çağrı\Desktop\RobotApplication\RobotApplication.ConsoleUI\obj\Debug\netcoreapp2.0\RobotApplication.ConsoleUI.AssemblyInfoInputs.cache
+C:\Users\Çağrı\Desktop\RobotApplication\RobotApplication.ConsoleUI\obj\Debug\netcoreapp2.0\RobotApplication.ConsoleUI.AssemblyInfo.cs
+C:\Users\Çağrı\Desktop\RobotApplication\RobotApplication.ConsoleUI\obj\Debug\netcoreapp2.0\RobotApplication.ConsoleUI.csproj.CopyComplete
+C:\Users\Çağrı\Desktop\RobotApplication\RobotApplication.ConsoleUI\obj\Debug\netcoreapp2.0\RobotApplication.ConsoleUI.dll
+C:\Users\Çağrı\Desktop\RobotApplication\RobotApplication.ConsoleUI\obj\Debug\netcoreapp2.0\RobotApplication.ConsoleUI.pdb

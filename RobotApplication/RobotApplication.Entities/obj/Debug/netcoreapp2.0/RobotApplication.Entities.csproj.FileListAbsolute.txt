@@ -1,0 +1,9 @@
+C:\Users\Çağrı\Desktop\RobotApplication\RobotApplication.Entities\bin\Debug\netcoreapp2.0\RobotApplication.Entities.deps.json
+C:\Users\Çağrı\Desktop\RobotApplication\RobotApplication.Entities\bin\Debug\netcoreapp2.0\RobotApplication.Entities.dll
+C:\Users\Çağrı\Desktop\RobotApplication\RobotApplication.Entities\bin\Debug\netcoreapp2.0\RobotApplication.Entities.pdb
+C:\Users\Çağrı\Desktop\RobotApplication\RobotApplication.Entities\obj\Debug\netcoreapp2.0\RobotApplication.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Çağrı\Desktop\RobotApplication\RobotApplication.Entities\obj\Debug\netcoreapp2.0\RobotApplication.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Çağrı\Desktop\RobotApplication\RobotApplication.Entities\obj\Debug\netcoreapp2.0\RobotApplication.Entities.AssemblyInfoInputs.cache
+C:\Users\Çağrı\Desktop\RobotApplication\RobotApplication.Entities\obj\Debug\netcoreapp2.0\RobotApplication.Entities.AssemblyInfo.cs
+C:\Users\Çağrı\Desktop\RobotApplication\RobotApplication.Entities\obj\Debug\netcoreapp2.0\RobotApplication.Entities.dll
+C:\Users\Çağrı\Desktop\RobotApplication\RobotApplication.Entities\obj\Debug\netcoreapp2.0\RobotApplication.Entities.pdb

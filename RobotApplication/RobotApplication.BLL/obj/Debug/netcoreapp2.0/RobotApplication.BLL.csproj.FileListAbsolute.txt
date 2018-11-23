@@ -1,0 +1,12 @@
+C:\Users\Çağrı\Desktop\RobotApplication\RobotApplication.BLL\bin\Debug\netcoreapp2.0\RobotApplication.BLL.deps.json
+C:\Users\Çağrı\Desktop\RobotApplication\RobotApplication.BLL\bin\Debug\netcoreapp2.0\RobotApplication.BLL.dll
+C:\Users\Çağrı\Desktop\RobotApplication\RobotApplication.BLL\bin\Debug\netcoreapp2.0\RobotApplication.BLL.pdb
+C:\Users\Çağrı\Desktop\RobotApplication\RobotApplication.BLL\bin\Debug\netcoreapp2.0\RobotApplication.Entities.dll
+C:\Users\Çağrı\Desktop\RobotApplication\RobotApplication.BLL\bin\Debug\netcoreapp2.0\RobotApplication.Entities.pdb
+C:\Users\Çağrı\Desktop\RobotApplication\RobotApplication.BLL\obj\Debug\netcoreapp2.0\RobotApplication.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Çağrı\Desktop\RobotApplication\RobotApplication.BLL\obj\Debug\netcoreapp2.0\RobotApplication.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Çağrı\Desktop\RobotApplication\RobotApplication.BLL\obj\Debug\netcoreapp2.0\RobotApplication.BLL.AssemblyInfoInputs.cache
+C:\Users\Çağrı\Desktop\RobotApplication\RobotApplication.BLL\obj\Debug\netcoreapp2.0\RobotApplication.BLL.AssemblyInfo.cs
+C:\Users\Çağrı\Desktop\RobotApplication\RobotApplication.BLL\obj\Debug\netcoreapp2.0\RobotApplication.BLL.csproj.CopyComplete
+C:\Users\Çağrı\Desktop\RobotApplication\RobotApplication.BLL\obj\Debug\netcoreapp2.0\RobotApplication.BLL.dll
+C:\Users\Çağrı\Desktop\RobotApplication\RobotApplication.BLL\obj\Debug\netcoreapp2.0\RobotApplication.BLL.pdb
